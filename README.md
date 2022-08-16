@@ -17,7 +17,7 @@ The purpose of the analysis of this dataset is to build a model to predict wheth
 6. Evaluation
 
 ## Contents of Repository
-- ``Classification.py `` :   Python file with classifcation class utilised in index.ipynb
+- ``Random Forest Classification.py `` :   Python file with classifcation class utilised in index.ipynb
 - ``READMEmd  ``         :   Markdown file with executive summay of project
-- ``transfusion.csv  ``      :   CSV file with data used for project
+- ``transfusion.data  ``      :   CSV file with data used for project
 - ``index.ipynb   ``     :   Python Notebook containing main conent for project (code,visualisations,modelling,evaluation)
