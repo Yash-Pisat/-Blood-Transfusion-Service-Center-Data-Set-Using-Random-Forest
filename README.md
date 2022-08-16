@@ -1,4 +1,4 @@
-# Random Forest
+# Random Forest for Classification
 This project is a collaboration between me and Sneha khirwal.
 
 ## Analysis
