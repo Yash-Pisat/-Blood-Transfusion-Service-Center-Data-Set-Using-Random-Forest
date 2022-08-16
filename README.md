@@ -17,10 +17,7 @@ The purpose of the analysis of this dataset is to build a model to predict wheth
 6. Evaluation
 
 ## Contents of Repository
-- ``Superseded  ``       :   Folder containing previous/unused work
 - ``Classification.py `` :   Python file with classifcation class utilised in index.ipynb
-- ``Ensemble.py  ``      :   Python file with ensemble class utilised in index.ipynb
-- ``Fores_trees.pdf ``   :   PDF containing project presentation
 - ``READMEmd  ``         :   Markdown file with executive summay of project
-- ``covtype.csv  ``      :   CSV file with data used for project
+- ``transfusion.csv  ``      :   CSV file with data used for project
 - ``index.ipynb   ``     :   Python Notebook containing main conent for project (code,visualisations,modelling,evaluation)
