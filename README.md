@@ -20,4 +20,5 @@ The purpose of the analysis of this dataset is to build a model to predict wheth
 - ``Random Forest Classification.py `` :   Python file with classifcation class utilised in index.ipynb
 - ``READMEmd  ``         :   Markdown file with executive summay of project
 - ``transfusion.data  ``      :   CSV file with data used for project
+- ``RF_classfication Documentation.py  ``      :   Document for the code implemented
 - ``index.ipynb   ``     :   Python Notebook containing main conent for project (code,visualisations,modelling,evaluation)
